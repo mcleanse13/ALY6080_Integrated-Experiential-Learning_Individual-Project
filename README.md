@@ -1,4 +1,4 @@
-# ALY6080_Integrated-Experiential-Learning_Individual Project
+ALY6080 Integrated Experiential Learning: Individual Project
 
 For my individual project, I developed a comprehensive proposal for Yeoman Technology Company to guide their transition from traditional multi-channel sales to digital platforms like Amazon. My focus was on creating a data-driven strategy that ensures this shift enhances revenue growth without negatively impacting existing client businesses or retail channels. To achieve this, I outlined a phased approach that includes selecting and implementing analytical tools, training staff, and establishing clear communication practices. I incorporated predictive modeling, customer segmentation, and descriptive analytics using tools such as Python, SQL, Tableau, and Excel to provide actionable insights, optimize sales strategies, and support data-driven decision-making throughout the transition.
 
