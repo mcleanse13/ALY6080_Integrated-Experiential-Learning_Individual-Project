@@ -1,4 +1,4 @@
-Data-Driven Digital Transformation Strategy for Yeoman Technology Company
+Final Project: Data-Driven Digital Transformation Strategy for Yeoman Technology Company
 
 For my final individual project, I focused on consolidating all previous drafts and feedback into a comprehensive proposal for Yeoman Technology Company. My goal was to outline a clear, data-driven strategy to support the transition of multi-channel brands from traditional sales channels to digital platforms like Amazon, while ensuring that existing client businesses and retail channels remain protected. In this final draft, I detail a structured, phased approach: selecting and implementing analytical tools, training staff and identifying critical skills, and establishing effective communication practices. I incorporated predictive modeling, customer segmentation, and descriptive analytics—leveraging tools like Python, SQL, Tableau, and Excel to generate actionable insights, optimize sales strategies, and monitor ongoing performance.
 
